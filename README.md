@@ -1,6 +1,6 @@
-#Patent Visualization Project
+# Patent Visualization Project
 
-###[Applied Research Laboratory](https://www.arl.psu.edu/) and [THRED](http://thred.group/)
+### [Applied Research Laboratory](https://www.arl.psu.edu/) and [THRED](http://thred.group/)
 
 By Dr. Robert Fraleigh
 
@@ -38,7 +38,7 @@ When you clone the repository, you often default to a master branch.  Think of t
 migrate into production. It is gold.  And we do not want to inadvertantly mess it up.
 
 So, once you clone the repository, checkout the develop branch. It is here where we will develop our code.  You can
-even checkout a copy of the develop branch and rename it to **dev_USERNAME** to have a branch all to yourself.
+even checkout a copy of the develop branch and rename it to *dev_USERNAME* to have a branch all to yourself.
 
 Commit frequently.  This will save you time if you make a mistake and want to back to a previous version.
 
